@@ -1,0 +1,35 @@
+_repo: A-History-of-Economic-Doctrines_57500
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Smart, William
+    birthdate: 1853
+    deathdate: 1915
+    gutenberg_agent_id: '47135'
+    url: http://www.gutenberg.org/2009/agents/47135
+  - agent_name: Richards, R. C. (Ralph Coffin)
+    alias: Richards, Ralph C. (Ralph Coffin)
+    birthdate: 1855
+    gutenberg_agent_id: '39627'
+    url: http://www.gutenberg.org/2009/agents/39627
+creator:
+  authors:
+  - agent_name: Gide, Charles
+    gutenberg_agent_id: '49426'
+    url: http://www.gutenberg.org/2009/agents/49426
+  - agent_name: Rist, Charles
+    gutenberg_agent_id: '49427'
+    url: http://www.gutenberg.org/2009/agents/49427
+description: ''
+gutenberg_issued: '2018-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A History of Economic Doctrines
+url: http://www.gutenberg.org/ebooks/57500
